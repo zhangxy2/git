@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4942a0f6-43fe-4872-b9af-ed82f90dd451" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4942a0f6-43fe-4872-b9af-ed82f90dd451" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593785505904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea 方式提交">
+      <created>1593790645717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593790645717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +86,10 @@
       <screen x="0" y="23" width="1440" height="794" />
     </state>
     <state x="478" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.794@0.23.1440.794" timestamp="1593790055006" />
-    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1593785505746">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1593790645571">
       <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1593785505746" />
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1593790645571" />
     <state x="385" y="145" width="670" height="676" key="search.everywhere.popup" timestamp="1593775216387">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
